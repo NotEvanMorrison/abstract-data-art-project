@@ -39,4 +39,4 @@ https://drive.google.com/file/d/1f2mZOzrrddIOhxH9lHfh9X3HodSfaxGW/view?usp=shari
 
 ## Description
 
-My Project is a data visualization project that I created using a dataset found on code.org based around the NFL. In my dataset, I chose to use the columns labeled Team & Capacity. My user story's purpose is to inform users on different NFL teams stadium max capacity. I did this by changing the team logo based on what team is currently being displayed. I used an if else if to specify, if the team is being displayed then the logo will be displayed. This will give our users a better understanding of NFL team.
+My Project is a data visualization project that I created using a dataset found on code.org based around the NFL. In my dataset, I chose to use the columns labeled Team & Capacity. My user story's purpose is to inform users on different NFL teams stadium max capacity. I did this by changing the team logo based on what team is currently being displayed. I used an if else if to specify, if the team is being displayed then the logo will be displayed. This will give our users a better understanding of the NFL team's max capacity.
