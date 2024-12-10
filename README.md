@@ -27,10 +27,9 @@ Dataset: [From Code.org](https://docs.google.com/spreadsheets/d/1EWTHSKlQpAb8n9w
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
+Put an image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one work, otherwise it might not properly get display on this README.
 
-<img src="blob:chrome-untrusted://media-app/a9270960-acfe-4f75-bd8f-f53e8b23e1c8" alt="Screenshot 2024-12-09 8.58.05 AM.png"/>![image](https://github.com/user-attachments/assets/f690d42a-a8c1-4905-b7ab-93fa0bce4ad0)
-
+![UML Diagram](UMLDiagram.png)
 
 ## Video Demo
 
@@ -40,5 +39,4 @@ https://drive.google.com/file/d/1f2mZOzrrddIOhxH9lHfh9X3HodSfaxGW/view?usp=shari
 
 ## Description
 
-Angelo and I's project is a data visualization project that we created using a data set based on dogs. We created a UML diagram to figure out which columns of data we would select for the project. 
-We chose to use the columns labeled name, bred for, max life, and min life. This will allow our user story to be created, and its purpose will be to inform users on how long certain dog's lives are. We will do this by visually changing the color of the background based on their max life span. We used an if else if to specify, if the life span is less than 10 the background color will be red, if it is less than 13 it is yellow, and if it is greater than or equal to 15 the color is Randomized using our Math.random method. This will give our users a better understanding of the life span of all dog breeds as well as why that breed is helpful. The arrays we used our filled with infomation, and we were able to pull this information by turning them into text files using the File Reader method. 
+My Project is a data visualization project that I created using a dataset found on code.org based around the NFL. In my dataset, I chose to use the columns labeled Team & Capacity. My user story's purpose is to inform users on different NFL teams stadium max capacity. I did this by changing the team logo based on what team is currently being displayed. I used an if else if to specify, if the team is being displayed then the logo will be displayed. This will give our users a better understanding of NFL team.
