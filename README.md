@@ -20,7 +20,7 @@ Use your knowledge of object-oriented programming, one-dimensional (1D) arrays, 
 
 Include a hyperlink to the source of your dataset used for this project. Additionally, provide a short description of each column used from the dataset, and the data type.
 
-Dataset: [From Code.org]([https://docs.google.com/spreadsheets/d/1lCEpVTYtGUYBD-_efe33KpcCRJv7xLKwD4Q126KwyRI/edit?gid=1638692842#gid=1638692842](https://docs.google.com/spreadsheets/d/1EWTHSKlQpAb8n9wjp7RSLx9REoQL9bqHuclcyZydUc8/edit?gid=729372834#gid=729372834))
+Dataset: [From Code.org](https://docs.google.com/spreadsheets/d/1EWTHSKlQpAb8n9wjp7RSLx9REoQL9bqHuclcyZydUc8/edit?gid=729372834#gid=729372834)
 
 - **Team** (String) - name of the football team
 - **Capacity** (int) - max capacity of the teams stadium
